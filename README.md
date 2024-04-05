@@ -1,4 +1,4 @@
-<h1>Cheers guys/gals! 🥃</h1>
+<h1>Cheers guys || gals! 🥃</h1>
 <p>
   As an avid developer from <b>Bulgaria</b> <img src="https://img.icons8.com/color/512/bulgaria-circular.png" width="13" />, I thrive on crafting innovative solutions with cutting-edge technologies like React, Next.js, React Native, and Vue. My passion for building extends beyond just coding; it's about creating impactful experiences that resonate with users.
 </p>
